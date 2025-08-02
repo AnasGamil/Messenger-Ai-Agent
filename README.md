@@ -1,2 +1,2 @@
 # Messenger-Ai-Agent
-A n8n workflow for an AI agent that responds to messages on messenger.
+Created a workflow for an AI agent to automatically respond to messages on Facebook Messenger using n8n.
